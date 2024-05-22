@@ -1,4 +1,4 @@
-# brightest pixel horsehead
+# Brightest pixel Horsehead
 
 Data analysis in the Horsehead Nebula, searching for the position of the brightest pixel.
 
